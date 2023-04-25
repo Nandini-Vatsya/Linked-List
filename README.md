@@ -27,7 +27,7 @@ The power of a linked list comes from the ability to break the chain and rejoin 
 <br>
 # Complexity:- <br>
 <br>
-<b><ins> Time Complexity </b>,/ins><br>
+<b><ins> Time Complexity </b></ins><br>
 <br>
 <img width="455" alt="Linked List Png" src="https://user-images.githubusercontent.com/125802204/234297003-b54653b1-e6af-4ad1-9664-41db6b709d2d.png">
 <br>
